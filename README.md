@@ -5,7 +5,7 @@
 ```javascript
 const aboutMe = {
   name: "Ahoora Shakarami",
-  location: "Khorramabad, Iran",
+  location: "Iran, Khorramabad",
   skills: [
     "HTML",
     "CSS",
