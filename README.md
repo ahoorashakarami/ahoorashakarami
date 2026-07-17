@@ -4,9 +4,20 @@
 
 ```javascript
 const aboutMe = {
-    name: "Ahoora Shakarami",
-    location: "Iran, Khorramabad",
-    skills: [ "HTML", "CSS", "JavaScript", "React", "Next.js", "Bootstrap"],
-    contact: "https://t.me/ahoorashakarami"
+  name: "Ahoora Shakarami",
+  role: "Front-End Developer",
+  location: "Khorramabad, Iran",
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Bootstrap"
+  ],
+
+  contact: {
+    telegram: "t.me/ahoorashakarami"
+  }
 }
 ```
