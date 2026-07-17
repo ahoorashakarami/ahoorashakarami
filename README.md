@@ -5,7 +5,6 @@
 ```javascript
 const aboutMe = {
   name: "Ahoora Shakarami",
-  role: "Front-End Developer",
   location: "Khorramabad, Iran",
   skills: [
     "HTML",
